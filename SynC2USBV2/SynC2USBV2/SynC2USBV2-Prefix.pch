@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'SynC2USBV2' target in the 'SynC2USBV2' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
